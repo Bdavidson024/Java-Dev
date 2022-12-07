@@ -1,0 +1,48 @@
+Button {
+	-fx-font-size:30;
+	-fx-font-weight:bold;
+	-fx-font-family:sans-serif;
+	-fx-background-color: #0000ff;
+	-fx-text-fill:#ffff00; 
+	-fx-border-style: solid outside;
+	-fx-border-width: 2;
+	-fx-border-color: #000;
+}
+RadioButton {
+	
+	-fx-font-family: sans-serif;
+	-fx-font-weight: bold;
+	-fx-font-size: 14;
+	
+	
+	
+}
+
+.hboxID {
+	
+	-fx-padding: 10px;
+	
+	-fx-border-style: solid outside;
+	-fx-border-width: 2;
+	-fx-border-color: #000;
+	-fx-width: 20em;
+	
+}
+
+VBox
+{
+	
+	  -fx-border-color: black;
+    -fx-border-insets: 5;
+    -fx-border-width: 1;  
+	
+	
+}
+
+.addBobOkoo {
+    -fx-background-color: yellow;
+	-fx-font-size: 40px;
+}
+
+
+
